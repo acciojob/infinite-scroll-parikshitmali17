@@ -16,4 +16,4 @@ itemNo++
 	
 }
 
-window.addEventListner("scroll",Infunction)
+window.addEventListener("scroll",Infunction)
